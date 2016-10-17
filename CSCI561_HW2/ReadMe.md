@@ -8,7 +8,7 @@
 
 **test.py**: Code for automatically run your code with all test cases in **TestCase**. 
 
-**TestCase_New**: Contains 98 new test case.
+**TestCase_New**: Contains 97 new test case.
 
 **test_New.py**: Code for run your code with all test cases in **TestCase_New**.
 
