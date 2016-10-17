@@ -6,7 +6,7 @@ import os
 os.system('rm -rf ./Result')
 os.system('mkdir ./Result')
 
-for i in xrange(1,99):
+for i in xrange(1,98):
 	print("--Test Case #{0}--".format(i))
 	os.system('cp ./TestCase_New/Test{0}/input.txt ./input.txt'.format(i))
 	os.system('time ./a.out')

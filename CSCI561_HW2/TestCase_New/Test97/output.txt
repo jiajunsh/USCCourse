@@ -1,2 +1,9 @@
-A1 Stake
-X
+G3 Raid
+.X..XOX.
+X.XXXXO.
+....XOO.
+OX.XOXOX
+.OOXO.XO
+...OO.OX
+OO.O.OO.
+XOOO..O.
