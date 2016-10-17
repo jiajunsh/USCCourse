@@ -1,0 +1,8 @@
+2
+ALPHABETA
+O
+5
+99 96
+69 47
+OO
+XO
